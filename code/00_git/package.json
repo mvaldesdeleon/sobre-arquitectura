@@ -1,0 +1,8 @@
+{
+  "name": "mi-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "mi-libreria": "git+ssh://git@git.empresa.com/mi-libreria.git#1.0.0"
+  }
+}
